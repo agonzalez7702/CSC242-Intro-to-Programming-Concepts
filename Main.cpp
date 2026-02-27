@@ -7,7 +7,7 @@
 ** File: 	Main.cpp
 ** Description:
 **
-** Author: 	Alexandra Gonzalez
+** Author: 	Alexandra Gonzalez, Karon Eley, Edward Davis
 ** Date: 	2/25/26
 ** -------------------------------------------------------------------------*/
 
